@@ -38,4 +38,4 @@ def downloadAllAttachmentsInInbox(server, user, password, outputdir):
         downloaAttachmentsInEmail(m, emailid, outputdir)
 
 #MAIN
-downloadAllAttachmentsInInbox("imap.gmail.com","Email","Password","D:\Files")        
+downloadAllAttachmentsInInbox("imap.gmail.com","Email@gmail.com","Password","D:\Files")        
