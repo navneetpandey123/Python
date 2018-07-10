@@ -1,2 +1,3 @@
 # Python
-Repo for my python programs
+This repo is dedicated for my python work
+
